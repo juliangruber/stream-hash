@@ -3,6 +3,8 @@
 
   A transform stream that calls back with a hash.
 
+  [![build status](https://secure.travis-ci.org/juliangruber/stream-hash.svg)](http://travis-ci.org/juliangruber/stream-hash)
+
 ## Example
 
 ```js
