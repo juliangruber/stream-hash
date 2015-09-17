@@ -3,5 +3,11 @@
   "version": "1.0.1",
   "description": "A transform stream that calls back with a hash",
   "repository": "juliangruber/stream-hash",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "tap": "^1.4.1"
+  },
+  "scripts": {
+    "test": "make test"
+  }
 }
