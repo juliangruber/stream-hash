@@ -26,5 +26,6 @@ Hash.prototype._transform = function(chunk, _, done){
 
 Hash.prototype._flush = function(done){
   this._cb(this._hash.digest(this._encoding));
+  done();
 };
 
