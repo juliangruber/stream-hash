@@ -1,6 +1,6 @@
 {
   "name": "stream-hash",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A transform stream that calls back with a hash",
   "repository": "juliangruber/stream-hash",
   "license": "MIT"
