@@ -5,7 +5,7 @@
   "repository": "juliangruber/stream-hash",
   "license": "MIT",
   "devDependencies": {
-    "tap": "^1.4.1"
+    "tap": "^8.0.1"
   },
   "scripts": {
     "test": "make test"
